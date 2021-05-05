@@ -1,6 +1,6 @@
 package com.redis.example.redisjpademo.repository;
 
-import com.redis.example.redisjpademo.inmemory.TestingRedisObject;
+import com.redis.example.redisjpademo.inmemoryModels.TestingRedisObject;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,9 +1,8 @@
-package com.redis.example.redisjpademo.inmemory;
+package com.redis.example.redisjpademo.inmemoryModels;
 
 import com.redis.example.redisjpademo.config.RedisSequence;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;
-import org.springframework.data.redis.core.TimeToLive;
 import org.springframework.data.redis.core.index.Indexed;
 
 import java.util.Date;

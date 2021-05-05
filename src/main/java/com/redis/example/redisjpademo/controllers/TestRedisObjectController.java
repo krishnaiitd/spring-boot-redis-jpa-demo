@@ -1,6 +1,6 @@
 package com.redis.example.redisjpademo.controllers;
 
-import com.redis.example.redisjpademo.inmemory.TestingRedisObject;
+import com.redis.example.redisjpademo.inmemoryModels.TestingRedisObject;
 import com.redis.example.redisjpademo.services.TestRedisObjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
